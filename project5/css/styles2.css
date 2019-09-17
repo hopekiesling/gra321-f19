@@ -1,0 +1,25 @@
+/* Styles for Project 5 */
+
+body {
+    font-family: canada-type-gibson, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    letter-spacing: 1 px
+}
+
+h1 {
+    color: cadetblue;
+    font-weight: 700;
+    letter-spacing: 2 px
+}
+
+h2 {
+    color: lightblue;
+    font-weight: 700;
+    font-style: italic;
+    letter-spacing: 7 px
+}
+
+img {
+    max-width: 95%;
+}
