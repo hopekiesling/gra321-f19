@@ -151,9 +151,9 @@ a:hover {
 .hours p {
     font-family: 'Playfair Display', serif;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 30px;
     margin-top: 80px;
-    margin-bottom: 50px;
+    margin-bottom: -10px;
     text-align: left;
     opacity: 100%;
 }
