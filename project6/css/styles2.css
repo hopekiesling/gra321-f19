@@ -14,7 +14,7 @@ ul {
     font-weight: 700;
     font-size: 400px;
     text-align: left;
-    margin-top: -100px;
+    margin-top: -60px;
     margin-bottom: 0px;
 }
 
@@ -57,8 +57,8 @@ ul {
 }
 
 body {
-    margin-left: 30px;
-    margin-right: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .background {
