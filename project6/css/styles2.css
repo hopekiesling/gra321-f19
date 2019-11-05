@@ -21,7 +21,7 @@ ul {
 .home h2 {
     font-family: 'Playfair Display', serif;
     font-weight: 700;
-    font-size: 45px;
+    font-size: 40px;
     text-align: left;
     margin-top: -30px;
     color: black;
@@ -30,17 +30,17 @@ ul {
 .home p {
     font-family: 'Playfair Display', serif;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 15px;
     text-align: left;
-    margin-top: -40px;
+    margin-top: -30px;
     margin-bottom: 100px;
     opacity: 100%;
     color: black;
 }
 
 #carousel {
-    width: 100%;
-    height: 100%;
+    width: 110%;
+    height: 110%;
     background-color: white;
     margin-bottom: 85px;
     overflow: auto;
@@ -57,7 +57,7 @@ ul {
 }
 
 body {
-    margin-left: 30px;
+    margin-left: 50px;
     margin-right: 20px;
 }
 
@@ -199,7 +199,7 @@ h4 {
 h2 {
     font-family: 'Playfair Display', serif;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 50px;
     text-align: center;
 }
 
@@ -267,9 +267,9 @@ img {
 .contactus h1 {
     font-family: 'Playfair Display', serif;
     font-weight: 400;
-    font-size: 70px;
+    font-size: 80px;
     text-align: center;
-    line-height: 60px;
+    line-height: 70px;
     margin-top: 90px;
 }
 
