@@ -57,8 +57,8 @@ ul {
 }
 
 body {
-    margin-left: 10px;
-    margin-right: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .background {
@@ -77,7 +77,7 @@ body {
 p {
     font-family: 'Playfair Display', serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1.5em;
     text-align: center;
     opacity: 50%;
@@ -199,7 +199,7 @@ h4 {
 h2 {
     font-family: 'Playfair Display', serif;
     font-weight: 700;
-    font-size: 50px;
+    font-size: 45px;
     text-align: center;
 }
 
@@ -220,7 +220,7 @@ h2 {
 h6 {
     font-family: 'Playfair Display', serif;
     font-weight: 400;
-    font-size: 120px;
+    font-size: 100px;
     margin-top: -20px;
     margin-bottom: -0px;
     text-align: center;
@@ -237,7 +237,7 @@ h5 {
 
 .price {
     opacity: 50%;
-    word-spacing: 12px;
+    word-spacing: 10px;
     font-size: 20px;
 }
 
@@ -267,7 +267,7 @@ img {
 .contactus h1 {
     font-family: 'Playfair Display', serif;
     font-weight: 400;
-    font-size: 70px;
+    font-size: 63px;
     text-align: center;
     line-height: 60px;
     margin-top: 90px;
