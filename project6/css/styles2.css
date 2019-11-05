@@ -57,8 +57,8 @@ ul {
 }
 
 body {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .background {
@@ -311,6 +311,7 @@ ul {
     list-style: none;
     padding-left: 0;
 }
+
 
 .home h1 {
     font-family: 'Playfair Display', serif;
